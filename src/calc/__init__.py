@@ -1,3 +1,3 @@
-from .core import add, div
+from .core import add, div, sub
 
-__all__ = ["add", "div"]
+__all__ = ["add", "div", "sub"]
